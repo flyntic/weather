@@ -1,0 +1,22 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>images/50d@4x.png</file>
+        <file>images/01d@4x.png</file>
+        <file>images/02d@4x.png</file>
+        <file>images/03d@4x.png</file>
+        <file>images/04d@4x.png</file>
+        <file>images/09d@4x.png</file>
+        <file>images/10d@4x.png</file>
+        <file>images/11d@4x.png</file>
+        <file>images/13d@4x.png</file>
+        <file>images/01n@4x.png</file>
+        <file>images/02n@4x.png</file>
+        <file>images/03n@4x.png</file>
+        <file>images/04n@4x.png</file>
+        <file>images/09n@4x.png</file>
+        <file>images/10n@4x.png</file>
+        <file>images/11n@4x.png</file>
+        <file>images/13n@4x.png</file>
+        <file>images/50n@4x.png</file>
+    </qresource>
+</RCC>
